@@ -39,8 +39,5 @@ Perfecting my front-end pixel-fu ✨
 
 Finishing my CS degree while dodging burnout with coffee and power chords
 
-📬 Connect with me
-[LinkedIn](https://www.linkedin.com/in/karina-kristensen-41a724306/)
-
 "Talk is cheap. Show me the code." – Linus Torvalds
 "But also... show me your Spotify playlist." – Me
