@@ -32,13 +32,6 @@ But also the kind of person who names their functions something like voidSummonM
 I write clean code... but listen to dirty riffs.
 Call me a contradiction, but I compile just fine. 😉
 
-📊 GitHub Stats
-![WongtongK's GitHub stats](https://github-readme-stats.vercel.app/api?username=WongtongK&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WongtongK&layout=compact&theme=tokyonight)
-
-![snake gif](https://github.com/WongtongK/WongtongK/blob/output/dist/ocean.gif?raw=true)
-
 🛠️ Currently Working On:
 Wrangling microservices like a backend cowboy 🤠
 
