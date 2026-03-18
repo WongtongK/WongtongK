@@ -3,7 +3,7 @@
 ```csharp
 // Warning: Highly caffeinated code wizard ahead ☕
 
-Hi! I'm Karina – a 24-year-old full-stack sorceress currently on my 4th semester of Computer Science, and I've already befriended both the front-end and the back-end beasts. When I'm not typing furiously into VSCode or debugging the space-time continuum, I'm probably:
+Hi! I'm Karina – a 25-year-old full-stack sorceress currently on my 5th semester of Computer Science, and I've already befriended both the front-end and the back-end beasts. When I'm not typing furiously into VSCode or debugging the space-time continuum, I'm probably:
 
 🎸 Shredding on my guitar
 ☕ Sipping dangerously strong coffee with friends
